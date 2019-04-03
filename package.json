@@ -1,0 +1,11 @@
+{
+  "name": "@nodeonjs/nodeonjs",
+  "version": "1.0.0",
+  "description": "NodeonJS is a library/boilerplate for NodeJS project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mgrec",
+  "license": "ISC"
+}
