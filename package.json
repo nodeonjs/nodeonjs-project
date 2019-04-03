@@ -1,6 +1,6 @@
 {
   "name": "@nodeonjs/nodeonjs",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "NodeonJS is a library/boilerplate for NodeJS project ",
   "main": "app.js",
   "scripts": {
