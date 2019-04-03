@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mgrec",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": "nodeonjs/nodeonjs-project",
+  "keywords": [
+    "js",
+    "nodejs",
+    "package",
+    "boilerplate",
+    "library"
+  ]
 }
