@@ -1,6 +1,6 @@
 {
   "name": "@nodeonjs/nodeonjs",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "NodeonJS is a library/boilerplate for NodeJS project ",
   "main": "app.js",
   "scripts": {
@@ -11,7 +11,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/nodeonjs/nodeonjs-project.git"
-  },  "keywords": [
+  },
+  "keywords": [
     "js",
     "nodejs",
     "package",
