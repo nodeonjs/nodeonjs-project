@@ -8,8 +8,10 @@
   },
   "author": "mgrec",
   "license": "MIT",
-  "repository": "nodeonjs/nodeonjs-project",
-  "keywords": [
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodeonjs/nodeonjs-project.git"
+  },  "keywords": [
     "js",
     "nodejs",
     "package",
