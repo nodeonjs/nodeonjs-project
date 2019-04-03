@@ -19,6 +19,13 @@
     "boilerplate",
     "library"
   ],
+  "files" : [
+    "bin",
+    "public",
+    "routes",
+    "views",
+    "app.js"
+  ],
   "dependencies": {
     "body-parser": "~1.17.1",
     "cookie-parser": "~1.4.3",
